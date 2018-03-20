@@ -1,5 +1,5 @@
 <?php
-include("dbinfo.php");
+include("db.php");
 session_start();
 error_reporting(0);
 if($_SERVER["REQUEST_METHOD"] == "POST")
