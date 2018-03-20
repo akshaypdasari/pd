@@ -115,7 +115,7 @@ $error="Sorry, Please Fill All Information ";
             <input type="password" class="form-control"id="password" name="password" value="" placeholder="Password" >
 			
             <select style= "margin-bottom: 10px;" id="type" name="type" class="form-control">		
-				<option value="">Please Select Akshay </option>
+				<option value="">Please Select Role </option>
 				<option value="1">Admin</option>
 				<option value="2">Staff</option>
 				<option value="3">Student</option>
